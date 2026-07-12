@@ -8,11 +8,11 @@
    General tab -> "Your apps" -> the web app -> SDK setup and configuration.
    ========================================================================= */
 const FIREBASE_CONFIG = {
-  apiKey: "",
-  authDomain: "",
-  databaseURL: "",
-  projectId: "",
-  storageBucket: "",
-  messagingSenderId: "",
-  appId: ""
+  apiKey: "AIzaSyDqUKk_Z17EluQ3EdgoIqs_6uSLHZUjiEE",
+  authDomain: "allcear-storage.firebaseapp.com",
+  databaseURL: "https://allcear-storage-default-rtdb.firebaseio.com",
+  projectId: "allcear-storage",
+  storageBucket: "allcear-storage.firebasestorage.app",
+  messagingSenderId: "240348898512",
+  appId: "1:240348898512:web:523af269623a1ebf7dead5"
 };
